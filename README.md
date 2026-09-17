@@ -2,6 +2,8 @@
 
 Sitio estático en HTML, CSS y JavaScript para presentar perfil profesional, proyectos, experiencia, certificaciones y currículum.
 
+Contexto del repositorio remoto inicial: Desarrollo del proyecto de Insulink.
+
 ## Ejecutar con Docker
 
 Requisitos: Docker Desktop instalado y en ejecución.
